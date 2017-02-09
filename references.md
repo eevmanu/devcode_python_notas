@@ -15,6 +15,7 @@
 - [Learn Python Online - Codementor](https://www.codementor.io/learn-python-online)
 - [Learn Python The Hard Way - Book](https://learnpythonthehardway.org/book/)
 - [Intermediate Python Programming - Sentdex (youtube playlist)](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfju7ADVp5W1GF9jVhjbX-_)
+- [Python Patterns](https://github.com/faif/python-patterns)
 
 ### Tutorials & Examples
 
