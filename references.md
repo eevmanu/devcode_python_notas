@@ -13,7 +13,7 @@
 - [Python Course - Codecademy](https://www.codecademy.com/learn/python)
 - [Python Class - Google](https://developers.google.com/edu/python/)
 - [Learn Python Online - Codementor](https://www.codementor.io/learn-python-online)
-- [Learn Python The Hard Way - Book](https://learnpythonthehardway.org/book/)
+- [Learn Python The Hard Way using Python 3](https://learnpythonthehardway.org/python3/)
 - [Intermediate Python Programming - Sentdex (youtube playlist)](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfju7ADVp5W1GF9jVhjbX-_)
 - [Python Patterns](https://github.com/faif/python-patterns)
 
