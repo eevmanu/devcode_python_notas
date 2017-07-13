@@ -17,6 +17,7 @@
 - [Intermediate Python Programming - Sentdex (youtube playlist)](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfju7ADVp5W1GF9jVhjbX-_)
 - [Python Patterns](https://github.com/faif/python-patterns)
 - [Learn 90% of Python in 90 Minutes](https://www.slideshare.net/MattHarrison4/learn-90)
+- [Py (Duoling for Python - Android app)](https://play.google.com/store/apps/details?id=com.py.learn)
 
 ### Tutorials & Examples
 
