@@ -48,6 +48,8 @@
 - [How to use APIs with Python - Codecademy](https://www.codecademy.com/courses/python-intermediate-en-6zbLp/0/1?curriculum_id=50ecbb9b71204640240001bf)
 - [Learn APIs - Codecademy](https://www.codecademy.com/apis)
 
-### Python Module of the Week
+### Others
 
-- [Twitter](https://twitter.com/pymotw) / [RSS](https://twitrss.me/twitter_user_to_rss/?user=pymotw)
+- Python module of the week [Twitter](https://twitter.com/pymotw) / [RSS](https://twitrss.me/twitter_user_to_rss/?user=pymotw)
+- [Twitter - Python trending repos](https://twitter.com/pythontrending/)
+- [Github - Python trending repos weekly](https://github.com/trending/python?since=weekly)
