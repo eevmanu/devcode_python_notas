@@ -37,6 +37,7 @@
 - [A Byte of Python](https://python.swaroopch.com/)
 - [The Best of the Best Practices (BOBP) Guide for Python](https://gist.github.com/sloria/7001839)
 - [Transforming Code into Beautiful, Idiomatic Python](https://gist.github.com/JeffPaine/6213790)
+- [Learning Python from Zero to Hero - Medium post](https://medium.freecodecamp.org/learning-python-from-zero-to-hero-120ea540b567)
 
 ### Trainig
 
